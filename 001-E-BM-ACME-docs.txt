@@ -1,0 +1,13 @@
+10:25 PM 10/11/2022	Case 001-E-BM-ACME started by BM
+10:28 PM 10/11/2022	Copied PelotaUSBIMAGE10-11-2000.img Image to T:\Cases\001-E-BM-ACME\Images\Exhibit001
+10:33 PM 10/11/2022	Exhibit001 SHA1: 70c54000fbef9b8b5279fa5deb003fe9dddfd006
+10:35 PM 10/11/2022	Started Autopsy Version 4.19.3 to process case 001-E-BM-ACME data
+10:40 PM 10/11/2022	Autopsy case data dir set to T:\cases\001-E-BM-ACME\Autopsy\001-E-BM-ACME
+11:07 PM 10/11/2022	Image PelotaUSBIMAGE10-11-2000.img injestion finished
+12:07 AM 10/12/2022	Began examination of PelotaUSBIMAGE10-11-2000.img file in Autopsy
+12:18 AM 10/12/2022	Stopped exam of PelotaUSBIMAGE10-11-2000
+10:00 PM 10/12/2022	Began exam of PelotaUSBIMAGE10-11-2000.img file in Autopsy
+10:05 PM 10/12/2022	Created Report of 001-E-BM-ACME tagged files 001-E-BM-ACME HTML Report 10-12-2022-22-04-19
+10:07 PM 10/12/2022	Extracted all Tagged files to Extracted Folde
+10:08 PM 10/12/2022	Finished examination of case 001-E-BM-ACME
+10:08 PM 10/12/2022	Closed Case 001-E-BM-ACME and exited Autopsy	
